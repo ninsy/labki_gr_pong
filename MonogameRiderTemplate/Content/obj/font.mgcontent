@@ -1,0 +1,22 @@
+<?xml version="1.0" encoding="utf-8"?>
+<PipelineBuildEvent xmlns:xsd="http://www.w3.org/2001/XMLSchema" xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance">
+  <SourceFile>/home/ninsy/Documents/Monogame-Rider-Template/MonogameRiderTemplate/Content/font.spritefont</SourceFile>
+  <SourceTime>2018-10-31T05:12:10+01:00</SourceTime>
+  <DestFile>/home/ninsy/Documents/Monogame-Rider-Template/MonogameRiderTemplate/Content/bin/font.xnb</DestFile>
+  <DestTime>2018-10-31T05:12:21+01:00</DestTime>
+  <Importer>FontDescriptionImporter</Importer>
+  <ImporterTime>2018-10-17T00:03:00+02:00</ImporterTime>
+  <Processor>FontDescriptionProcessor</Processor>
+  <ProcessorTime>2018-10-17T00:03:00+02:00</ProcessorTime>
+  <Parameters>
+    <Key>PremultiplyAlpha</Key>
+    <Value>True</Value>
+  </Parameters>
+  <Parameters>
+    <Key>TextureFormat</Key>
+    <Value>Compressed</Value>
+  </Parameters>
+  <Dependencies />
+  <BuildAsset />
+  <BuildOutput />
+</PipelineBuildEvent>
